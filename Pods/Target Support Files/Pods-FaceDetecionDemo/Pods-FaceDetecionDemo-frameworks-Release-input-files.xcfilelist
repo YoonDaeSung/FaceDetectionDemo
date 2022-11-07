@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-FaceDetecionDemo/Pods-FaceDetecionDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ImageDetect/ImageDetect.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
